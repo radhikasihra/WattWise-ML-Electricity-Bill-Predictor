@@ -1,4 +1,4 @@
-# WattWise-ML-Electricity-Bill-Predictor
+# WattWise ML Electricity Bill Predictor
 
 **WattWise | Smart Electricity Bill Prediction Using Machine Learning**
 
